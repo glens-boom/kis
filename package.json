@@ -1,5 +1,5 @@
 {
-  "name": "SPARK-X-2025",
+  "name": "KISII254-MD",
   "version": "2.0.0",
   "description": "",
   "main": "body.js",
@@ -16,7 +16,7 @@
     "whatsapp-bot",
     "Ibrahim-Adams"
   ],
-  "author": "Ibrahim Adams",
+  "author": "Glen tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
